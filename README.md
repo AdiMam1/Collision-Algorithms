@@ -1,2 +1,2 @@
-# Collision-Algorithms
-Collision Algorithms for detecting collision bitween two sprites.
+# p5.play-boilerplate
+Boiler plate for p5.play
